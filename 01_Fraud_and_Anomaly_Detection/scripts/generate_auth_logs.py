@@ -8,9 +8,9 @@ fake = Faker()
 Faker.seed(42)
 random.seed(42)
 
-NUM_USERS = 200
+NUM_USERS = 2000
 START_DATE = datetime(2024, 10, 1)
-END_DATE = datetime(2024, 10, 7)
+END_DATE = datetime(2024, 12, 31)
 
 # We define a "Home" location to baseline normal traffic (Kuala Lumpur coordinates)
 HOME_LAT = 3.1390
@@ -26,6 +26,8 @@ for i in range(1, NUM_USERS + 1):
         "home_ip": fake.ipv4(),
         "user_agent": fake.user_agent()
     })
+
+print(f"{len(users)} normal users generated.")
 
 logs = []
 
@@ -64,6 +66,9 @@ while current_time < END_DATE:
     
     current_time += timedelta(minutes=random.randint(1, 60))
 
+subtotal = len(logs)
+print(f"{subtotal} normal traffic logs generated.")
+
 # 3. Inject Brute Force Attack
 print("Injecting Brute Force attacks...")
 target_user = users[10]["user_id"]
@@ -84,6 +89,10 @@ for _ in range(35):
         "threat_type": "Brute Force"
     })
     attack_time += timedelta(seconds=random.randint(2, 5))
+
+brute_subtotal = len(logs) - subtotal
+print(f"{brute_subtotal} Brute Force Attack logs injected.")
+
 
 # 4. Inject Impossible Travel
 print("Injecting Impossible Travel anomaly...")
@@ -118,12 +127,16 @@ logs.append({
     "threat_type": "Impossible Travel"
 })
 
+impossible_subtotal = len(logs) - subtotal
+print(f"{impossible_subtotal} Impossible Travel logs injected.")
+
+
 # 5. Export
 print("Compiling dataset...")
 df = pd.DataFrame(logs)
 df = df.sort_values(by="timestamp").reset_index(drop=True)
 
-df.drop(columns=["threat_type"]).to_csv("auth_logs_raw.csv", index=False)
-df.to_csv("auth_logs_labeled_master.csv", index=False)
+df.drop(columns=["threat_type"]).to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_raw.csv", index=False)
+df.to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_labeled_master.csv", index=False)
 
 print(f"Done! Generated {len(df)} authentication logs.")

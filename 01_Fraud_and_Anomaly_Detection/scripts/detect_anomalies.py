@@ -19,7 +19,8 @@ def calculate_haversine_distance(lat1, lon1, lat2, lon2):
 
 # 1. Load the Data
 print("Loading raw authentication logs...")
-df = pd.read_csv("auth_logs_raw.csv")
+# df = pd.read_csv("auth_logs_raw.csv")
+df = pd.read_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_raw.csv")
 
 # Ensure timestamp is a datetime object
 df['timestamp'] = pd.to_datetime(df['timestamp'])
@@ -101,5 +102,5 @@ print(df['flagged_threat'].value_counts())
 print("--------------------------------\n")
 
 # Save the processed data for Tableau
-df.to_csv("auth_logs_flagged.csv", index=False)
+df.to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_flagged.csv", index=False)
 print("Saved to 'auth_logs_flagged.csv'. Ready for dashboarding!")
