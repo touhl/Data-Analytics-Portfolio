@@ -12,7 +12,7 @@ The detection engine specifically targets two major threat vectors:
 ## 🏗️ Architecture & Methodology
 
 ### 1. Data Generation (`generate_auth_logs.py`)
-To mimic a real-world enterprise environment without exposing proprietary PII, I built a Python script using the `Faker` library to generate a realistic synthetic dataset of 2,000+ authentication logs. 
+To mimic a real-world enterprise environment without exposing proprietary PII, I built a Python script using the `Faker` library to generate a realistic synthetic dataset of 200+ authentication logs. 
 * Includes IP addresses, exact lat/lon coordinates, user agents, and timestamps.
 * Intentionally injects hidden "Brute Force" and "Impossible Travel" attack patterns to test the detection logic.
 * *Note: In a production environment, IP coordinates would be derived via a Data Enrichment ETL step using a GeoIP database like MaxMind.*
