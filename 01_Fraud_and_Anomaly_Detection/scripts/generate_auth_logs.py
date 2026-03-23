@@ -93,6 +93,7 @@ for _ in range(35):
 brute_subtotal = len(logs) - subtotal
 print(f"{brute_subtotal} Brute Force Attack logs injected.")
 
+subtotal = len(logs)
 
 # 4. Inject Impossible Travel
 print("Injecting Impossible Travel anomaly...")
