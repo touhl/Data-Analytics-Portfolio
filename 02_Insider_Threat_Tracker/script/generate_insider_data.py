@@ -134,7 +134,7 @@ for i in range(40): # 40 abnormal downloads spread across a few days
     leak_time += timedelta(hours=random.randint(1, 4))
 
 insider_subtotal = len(logs) - subtotal
-print(f"{insider_subtotal} Brute Force Attack logs injected.")
+print(f"{insider_subtotal} insider threat logs injected.")
 
 # ==========================================
 # 4. EXPORT
