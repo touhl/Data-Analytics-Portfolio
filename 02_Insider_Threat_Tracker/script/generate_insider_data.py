@@ -10,8 +10,8 @@ random.seed(101)
 np.random.seed(101)
 
 NUM_EMPLOYEES = 150
-START_DATE = datetime(2024, 9, 1)
-END_DATE = datetime(2024, 10, 1) # 30 days of logs
+START_DATE = datetime(2024, 1, 1)
+END_DATE = datetime(2024, 12, 31) # 1 year of logs
 
 # ==========================================
 # 1. GENERATE HR ROSTER
@@ -48,7 +48,7 @@ print(f"HR Roster with {len(hr_df)} employees generated.")
 # ==========================================
 # 2. GENERATE NORMAL ACCESS LOGS
 # ==========================================
-print("Generating 30 days of normal system access logs...")
+print("Generating 1 year of normal system access logs...")
 systems = ["Inventory_DB", "Routing_Portal", "Customer_CRM", "Financial_Ledger", "HR_Portal"]
 actions = ["View", "Query", "Download", "Export"]
 
@@ -120,10 +120,10 @@ for _ in range(5): # 5 massive downloads in a row
 # Let's pick a Financial Analyst secretly exporting the ledger bit by bit
 analysts = [e for e in hr_data if e["role"] == "Financial Analyst"]
 leaker = analysts[0]
-leak_time = START_DATE + timedelta(days=20, hours=10)
+leak_time = START_DATE + timedelta(days=180, hours=10)
 
 print(f"  -> Threat 2 Injected: {leaker['employee_id']} slowly leaking Financial Ledger data.")
-for i in range(40): # 40 abnormal downloads spread across a few days
+for i in range(20): # 20 abnormal downloads spread across a few days
     logs.append({
         "timestamp": leak_time,
         "employee_id": leaker["employee_id"],
