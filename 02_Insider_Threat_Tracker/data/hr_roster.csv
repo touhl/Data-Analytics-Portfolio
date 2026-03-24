@@ -1,0 +1,151 @@
+employee_id,name,department,role,shift_start_hour,shift_end_hour,risk_tier
+EMP-0001,Chloe Sanford,Warehouse,Forklift Operator,8,20,Standard
+EMP-0002,Julie Alvarado,IT,System Admin,9,17,Elevated
+EMP-0003,Daniel Roberts,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0004,Christy Maddox,Finance,Payroll Manager,9,17,Elevated
+EMP-0005,Corey Davis,Warehouse,Forklift Operator,8,20,Standard
+EMP-0006,Holly Ruiz,IT,System Admin,9,17,Elevated
+EMP-0007,Mark Powell,Finance,Financial Analyst,9,17,Elevated
+EMP-0008,Jeffrey Torres,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0009,Rodney Frazier,IT,Helpdesk,9,17,Elevated
+EMP-0010,Sonya Foster,Warehouse,Forklift Operator,8,20,Standard
+EMP-0011,Jay Sullivan,Finance,Financial Analyst,9,17,Elevated
+EMP-0012,Abigail Marshall,IT,Helpdesk,9,17,Elevated
+EMP-0013,Haley Johnson,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0014,Alexandra Elliott,IT,Helpdesk,9,17,Elevated
+EMP-0015,Andrew White,Finance,Financial Analyst,9,17,Elevated
+EMP-0016,Chris Cohen,Ground Operations,Hub Manager,6,18,Standard
+EMP-0017,Heidi Delgado,Finance,Payroll Manager,9,17,Elevated
+EMP-0018,Jonathan Liu,IT,Helpdesk,9,17,Elevated
+EMP-0019,Sergio Vazquez,Warehouse,Forklift Operator,8,20,Standard
+EMP-0020,Abigail Miller,Ground Operations,Driver,6,18,Standard
+EMP-0021,Gregory Shah,IT,System Admin,9,17,Elevated
+EMP-0022,Sara Wilson,IT,System Admin,9,17,Elevated
+EMP-0023,Patricia Lamb,Ground Operations,Driver,6,18,Standard
+EMP-0024,Brenda White,Ground Operations,Driver,6,18,Standard
+EMP-0025,Nancy Stafford,Finance,Financial Analyst,9,17,Elevated
+EMP-0026,Steve Taylor,Finance,Financial Analyst,9,17,Elevated
+EMP-0027,Stacey Morgan,Ground Operations,Driver,6,18,Standard
+EMP-0028,Joshua Norris,Warehouse,Forklift Operator,8,20,Standard
+EMP-0029,Anthony Ramirez,Ground Operations,Dispatcher,6,18,Standard
+EMP-0030,Ann Pineda,IT,Helpdesk,9,17,Elevated
+EMP-0031,Dan Rodriguez,IT,System Admin,9,17,Elevated
+EMP-0032,Dr. Emma Davis,IT,Helpdesk,9,17,Elevated
+EMP-0033,Stacy Smith,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0034,Shannon Ellis,Ground Operations,Dispatcher,6,18,Standard
+EMP-0035,Regina Allen,Ground Operations,Hub Manager,6,18,Standard
+EMP-0036,Matthew Tran,Finance,Payroll Manager,9,17,Elevated
+EMP-0037,Felicia Giles,Ground Operations,Hub Manager,6,18,Standard
+EMP-0038,Michael Shannon,IT,System Admin,9,17,Elevated
+EMP-0039,Anthony Robinson,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0040,Charles Martinez,IT,System Admin,9,17,Elevated
+EMP-0041,Jacob West,Ground Operations,Dispatcher,6,18,Standard
+EMP-0042,Megan Mcdaniel,Finance,Payroll Manager,9,17,Elevated
+EMP-0043,Matthew Pierce,IT,System Admin,9,17,Elevated
+EMP-0044,Joshua Flores,Ground Operations,Hub Manager,6,18,Standard
+EMP-0045,Morgan Allen,Finance,Payroll Manager,9,17,Elevated
+EMP-0046,Jesse Phillips,Ground Operations,Dispatcher,6,18,Standard
+EMP-0047,Anthony Haney,Finance,Payroll Manager,9,17,Elevated
+EMP-0048,Jessica Estrada,Ground Operations,Driver,6,18,Standard
+EMP-0049,Michael Tapia,Warehouse,Forklift Operator,8,20,Standard
+EMP-0050,Julie Terrell,IT,System Admin,9,17,Elevated
+EMP-0051,Amy Jenkins,IT,System Admin,9,17,Elevated
+EMP-0052,Donald Jensen,Finance,Financial Analyst,9,17,Elevated
+EMP-0053,Paul Mathews,Ground Operations,Driver,6,18,Standard
+EMP-0054,Michael Adams,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0055,Melissa Davila,Ground Operations,Hub Manager,6,18,Standard
+EMP-0056,Gina Blair,IT,Helpdesk,9,17,Elevated
+EMP-0057,Micheal Butler,Ground Operations,Driver,6,18,Standard
+EMP-0058,David Robinson,Warehouse,Forklift Operator,8,20,Standard
+EMP-0059,Anne Hall,IT,System Admin,9,17,Elevated
+EMP-0060,Christopher Blair,Finance,Payroll Manager,9,17,Elevated
+EMP-0061,Mary Mccullough,Ground Operations,Dispatcher,6,18,Standard
+EMP-0062,Andrew Lopez,Finance,Payroll Manager,9,17,Elevated
+EMP-0063,Michelle Sellers,Finance,Payroll Manager,9,17,Elevated
+EMP-0064,Cristina Watkins,IT,System Admin,9,17,Elevated
+EMP-0065,Felicia Galvan,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0066,Laura Castillo,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0067,Brian Williams,Ground Operations,Dispatcher,6,18,Standard
+EMP-0068,Michelle Holder,Finance,Financial Analyst,9,17,Elevated
+EMP-0069,Wendy Powell,Finance,Financial Analyst,9,17,Elevated
+EMP-0070,Anthony Roberts,IT,System Admin,9,17,Elevated
+EMP-0071,Victoria Phillips,Finance,Financial Analyst,9,17,Elevated
+EMP-0072,Nathaniel Price,Warehouse,Forklift Operator,8,20,Standard
+EMP-0073,Brittany Castaneda,Finance,Payroll Manager,9,17,Elevated
+EMP-0074,Nicole Walls,Finance,Payroll Manager,9,17,Elevated
+EMP-0075,Andrew Torres,Warehouse,Forklift Operator,8,20,Standard
+EMP-0076,Julie Gonzalez,Warehouse,Forklift Operator,8,20,Standard
+EMP-0077,Christopher Gonzales,Finance,Financial Analyst,9,17,Elevated
+EMP-0078,Stacey Todd,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0079,Cheryl Waters,Finance,Payroll Manager,9,17,Elevated
+EMP-0080,Joseph Johnson,IT,System Admin,9,17,Elevated
+EMP-0081,Betty Watkins,Finance,Financial Analyst,9,17,Elevated
+EMP-0082,Maria Fleming,Ground Operations,Driver,6,18,Standard
+EMP-0083,Ricky Mays,Ground Operations,Dispatcher,6,18,Standard
+EMP-0084,Veronica Horn,IT,Helpdesk,9,17,Elevated
+EMP-0085,Michael Davis,Finance,Financial Analyst,9,17,Elevated
+EMP-0086,Jacqueline Dickerson,IT,System Admin,9,17,Elevated
+EMP-0087,Travis Williams,Ground Operations,Hub Manager,6,18,Standard
+EMP-0088,Aaron Martinez,Finance,Financial Analyst,9,17,Elevated
+EMP-0089,Dr. Sydney Lopez,Ground Operations,Hub Manager,6,18,Standard
+EMP-0090,Rebecca Acosta,IT,Helpdesk,9,17,Elevated
+EMP-0091,Wesley Chandler,Ground Operations,Dispatcher,6,18,Standard
+EMP-0092,Dominique Sanders,IT,Helpdesk,9,17,Elevated
+EMP-0093,Kelli Freeman,Ground Operations,Driver,6,18,Standard
+EMP-0094,Jennifer Trevino,Ground Operations,Dispatcher,6,18,Standard
+EMP-0095,Joseph Marquez,Finance,Financial Analyst,9,17,Elevated
+EMP-0096,Michael Mitchell,Ground Operations,Dispatcher,6,18,Standard
+EMP-0097,Lisa Taylor,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0098,Dana Taylor,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0099,Austin Garcia,IT,System Admin,9,17,Elevated
+EMP-0100,Anne Weaver,Ground Operations,Dispatcher,6,18,Standard
+EMP-0101,Jordan Olsen,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0102,Carmen Jones,Ground Operations,Driver,6,18,Standard
+EMP-0103,Sharon Farrell,Warehouse,Forklift Operator,8,20,Standard
+EMP-0104,Katrina Rubio,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0105,Pamela Buck,Ground Operations,Dispatcher,6,18,Standard
+EMP-0106,Patrick Silva,IT,System Admin,9,17,Elevated
+EMP-0107,David Baldwin,Finance,Payroll Manager,9,17,Elevated
+EMP-0108,Kristina Mitchell,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0109,Sherry Whitney,Ground Operations,Driver,6,18,Standard
+EMP-0110,Monique Miller,Ground Operations,Dispatcher,6,18,Standard
+EMP-0111,Justin Serrano,Finance,Payroll Manager,9,17,Elevated
+EMP-0112,Charles Porter,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0113,Charles Moore,IT,Helpdesk,9,17,Elevated
+EMP-0114,Ricky Jackson,Warehouse,Forklift Operator,8,20,Standard
+EMP-0115,Angela King,Ground Operations,Dispatcher,6,18,Standard
+EMP-0116,Adrienne Morris,Finance,Payroll Manager,9,17,Elevated
+EMP-0117,David Tanner,Warehouse,Forklift Operator,8,20,Standard
+EMP-0118,Nathan Kent,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0119,Scott Flores,IT,System Admin,9,17,Elevated
+EMP-0120,Lauren Bell,Warehouse,Forklift Operator,8,20,Standard
+EMP-0121,Melissa Flores,IT,Helpdesk,9,17,Elevated
+EMP-0122,Elizabeth Mitchell,Warehouse,Forklift Operator,8,20,Standard
+EMP-0123,Vanessa Moore,Ground Operations,Dispatcher,6,18,Standard
+EMP-0124,Michelle Smith,Finance,Financial Analyst,9,17,Elevated
+EMP-0125,Jeffrey Clay,Warehouse,Forklift Operator,8,20,Standard
+EMP-0126,Danielle Griffin,Finance,Financial Analyst,9,17,Elevated
+EMP-0127,Christine Garcia,IT,System Admin,9,17,Elevated
+EMP-0128,Michael Salas,Finance,Payroll Manager,9,17,Elevated
+EMP-0129,Alexandra Thompson,IT,Helpdesk,9,17,Elevated
+EMP-0130,Kyle Sullivan,Ground Operations,Driver,6,18,Standard
+EMP-0131,Lisa Mendez,Finance,Financial Analyst,9,17,Elevated
+EMP-0132,Christine Jacobson,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0133,Samantha Patton,Finance,Payroll Manager,9,17,Elevated
+EMP-0134,Anthony Diaz,Ground Operations,Driver,6,18,Standard
+EMP-0135,Christina Melton,Ground Operations,Driver,6,18,Standard
+EMP-0136,Melissa Webb,Ground Operations,Dispatcher,6,18,Standard
+EMP-0137,Robert Thompson,Ground Operations,Driver,6,18,Standard
+EMP-0138,Peter Reid II,Warehouse,Forklift Operator,8,20,Standard
+EMP-0139,Erica Fisher,IT,System Admin,9,17,Elevated
+EMP-0140,Michael Williams,Warehouse,Forklift Operator,8,20,Standard
+EMP-0141,Katherine Owen,IT,Helpdesk,9,17,Elevated
+EMP-0142,Kenneth Ponce,Finance,Financial Analyst,9,17,Elevated
+EMP-0143,Ricky Mcdonald,Finance,Payroll Manager,9,17,Elevated
+EMP-0144,Donald Robinson,Warehouse,Inventory Specialist,8,20,Standard
+EMP-0145,Christina Rivers,IT,Helpdesk,9,17,Elevated
+EMP-0146,Dominique Logan,Warehouse,Forklift Operator,8,20,Standard
+EMP-0147,Stacey Thomas,Ground Operations,Dispatcher,6,18,Standard
+EMP-0148,Alyssa White,Ground Operations,Hub Manager,6,18,Standard
+EMP-0149,Erik Campbell,Ground Operations,Hub Manager,6,18,Standard
+EMP-0150,Nicole Perry,IT,Helpdesk,9,17,Elevated
