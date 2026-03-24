@@ -101,6 +101,6 @@ print("\n--- Threat Detection Summary ---")
 print(df['flagged_threat'].value_counts())
 print("--------------------------------\n")
 
-# Save the processed data for Tableau
+# Save the processed data for reporting
 df.to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_flagged.csv", index=False)
-print("Saved to 'auth_logs_flagged.csv'. Ready for dashboarding!")
+print("Saved to 'auth_logs_flagged.csv'.")
