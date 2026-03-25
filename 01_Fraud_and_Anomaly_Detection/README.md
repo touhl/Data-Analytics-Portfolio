@@ -28,3 +28,13 @@ Built a rule-based detection engine using `Pandas` to process the raw logs and f
 2. Install the required dependencies:
    ```bash
    pip install pandas faker numpy
+3. Generate the raw logs:
+   ```bash
+   python scripts/generate_auth_logs.py
+4. Run the detection engine to flag anomalies:
+   ```bash
+   python scripts/detect_anomalies.py
+5. Use auth_logs_flagged.csv in dashboard to visualise results.
+
+---
+*Created by Tou Hui Ling - [Let's connect on LinkedIn](https://www.linkedin.com/in/huilingtou/)*

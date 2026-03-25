@@ -1,5 +1,4 @@
 import pandas as pd
-import numpy as np
 
 # 1. Load Data
 print("Loading HR and Access Log data...")
