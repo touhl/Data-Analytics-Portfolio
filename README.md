@@ -23,14 +23,12 @@ This repository serves as a centralized showcase of my technical ability to proc
 A simulated Security Operations Center (SOC) pipeline designed to identify external threat vectors in raw web server authentication logs.
 * **The Challenge:** Detecting high-velocity credential stuffing and session hijacking (impossible travel) within a massive, unstructured dataset.
 * **The Solution:** Engineered a rule-based Python detection engine utilizing the Haversine formula for velocity-based geographic analysis, effectively flagging physically impossible login sequences.
-* **Output:** An interactive, dark-mode Tableau dashboard featuring global threat mapping and time-series velocity spikes.
 * **Keywords:** `Geospatial Analysis`, `Python`, `Log Parsing`, `Botnet Detection`
 
 ### 2. [Insider Threat & Data Loss Prevention (DLP) Tracker](./02_Insider_Threat_Tracker)
 An Identity and Access Management (IAM) analytics project focused on detecting internal operational threats and unauthorized data exfiltration.
 * **The Challenge:** Identifying "slow leak" data theft by employees who already possess legitimate system access, without triggering massive false positives.
 * **The Solution:** Correlated HR metadata with system access logs to build dynamic, contextual baselines for every user. Implemented a Robust Z-Score using Median Absolute Deviation (MAD) to accurately flag statistical volume anomalies in heavily right-skewed network traffic.
-* **Output:** A user-centric risk prioritization dashboard designed for rapid forensic investigation by SOC analysts.
 * **Keywords:** `Statistical Modeling`, `Median Absolute Deviation (MAD)`, `Contextual Baselines`, `DLP`
 
 ---
