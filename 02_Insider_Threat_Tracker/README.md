@@ -37,4 +37,4 @@ Raw event logs lack the context needed for IAM (Identity and Access Management) 
 5. Use insider_threat_flagged.csv in dashboard to visualise results
 
 ---
-*Created by Tou Hui Ling - [Let's connect on LinkedIn](https://www.linkedin.com/in/huilingtou/)*
+*Created by [Tou Hui Ling](https://www.linkedin.com/in/huilingtou/)*

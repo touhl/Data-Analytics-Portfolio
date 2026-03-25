@@ -37,4 +37,4 @@ Built a rule-based detection engine using `Pandas` to process the raw logs and f
 5. Use auth_logs_flagged.csv in dashboard to visualise results.
 
 ---
-*Created by Tou Hui Ling - [Let's connect on LinkedIn](https://www.linkedin.com/in/huilingtou/)*
+*Created by [Tou Hui Ling](https://www.linkedin.com/in/huilingtou/)*
