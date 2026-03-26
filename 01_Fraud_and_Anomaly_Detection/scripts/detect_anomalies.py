@@ -19,7 +19,6 @@ def calculate_haversine_distance(lat1, lon1, lat2, lon2):
 
 # 1. Load the Data
 print("Loading raw authentication logs...")
-# df = pd.read_csv("auth_logs_raw.csv")
 df = pd.read_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_raw.csv")
 
 # Ensure timestamp is a datetime object
