@@ -1,9 +1,14 @@
 import pandas as pd
+from pathlib import Path
+
+# --- Set up Paths ---
+script_dir = Path(__file__).resolve().parent
+data_dir = script_dir.parent / 'data'
 
 # 1. Load Data
 print("Loading HR and Access Log data...")
-hr_df = pd.read_csv(r"02_Insider_Threat_Tracker\data\hr_roster.csv")
-logs_df = pd.read_csv(r"02_Insider_Threat_Tracker\data\system_access_logs.csv")
+hr_df = pd.read_csv(data_dir / 'hr_roster.csv')
+logs_df = pd.read_csv(data_dir / 'system_access_logs.csv')
 logs_df['timestamp'] = pd.to_datetime(logs_df['timestamp'])
 
 # 2. Contextual Data Merge (Feature Engineering)
@@ -78,5 +83,5 @@ print(df['flagged_threat'].value_counts())
 print("----------------------------------------\n")
 
 # Save the processed, enriched data for reporting
-df.to_csv(r"02_Insider_Threat_Tracker\data\insider_threat_flagged.csv", index=False)
+df.to_csv(data_dir / 'insider_threat_flagged.csv', index=False)
 print("Saved to 'insider_threat_flagged.csv'.")

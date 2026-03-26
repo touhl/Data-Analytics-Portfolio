@@ -2,6 +2,7 @@ import pandas as pd
 from faker import Faker
 import random
 from datetime import datetime, timedelta
+from pathlib import Path
 
 # Initialize Faker
 fake = Faker()
@@ -17,6 +18,10 @@ HOME_LAT = 3.1390
 HOME_LON = 101.6869
 HOME_CITY = "Kuala Lumpur"
 HOME_COUNTRY = "Malaysia"
+
+# --- Set up Paths ---
+script_dir = Path(__file__).resolve().parent
+data_dir = script_dir.parent / 'data'
 
 # 1. Create Normal Users
 users = []
@@ -137,7 +142,7 @@ print("Compiling dataset...")
 df = pd.DataFrame(logs)
 df = df.sort_values(by="timestamp").reset_index(drop=True)
 
-df.drop(columns=["threat_type"]).to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_raw.csv", index=False)
-df.to_csv(r"01_Fraud_and_Anomaly_Detection\data\auth_logs_labeled_master.csv", index=False)
+df.drop(columns=["threat_type"]).to_csv(data_dir / 'auth_logs_raw.csv', index=False)
+df.to_csv(data_dir / 'auth_logs_labeled_master.csv', index=False)
 
 print(f"Done! Generated {len(df)} authentication logs.")

@@ -3,6 +3,7 @@ from faker import Faker
 import random
 from datetime import datetime, timedelta
 import numpy as np
+from pathlib import Path
 
 fake = Faker()
 Faker.seed(101)
@@ -12,6 +13,10 @@ np.random.seed(101)
 NUM_EMPLOYEES = 150
 START_DATE = datetime(2024, 1, 1)
 END_DATE = datetime(2024, 12, 31) # 1 year of logs
+
+# --- Set up Paths ---
+script_dir = Path(__file__).resolve().parent
+data_dir = script_dir.parent / 'data'
 
 # ==========================================
 # 1. GENERATE HR ROSTER
@@ -41,7 +46,7 @@ for i in range(1, NUM_EMPLOYEES + 1):
     })
 
 hr_df = pd.DataFrame(hr_data)
-hr_df.to_csv(r"02_Insider_Threat_Tracker\data\hr_roster.csv", index=False)
+hr_df.to_csv(data_dir / 'hr_roster.csv', index=False)
 
 print(f"HR Roster with {len(hr_df)} employees generated.")
 
@@ -143,5 +148,5 @@ print("Compiling and exporting logs...")
 logs_df = pd.DataFrame(logs)
 logs_df = logs_df.sort_values(by="timestamp").reset_index(drop=True)
 
-logs_df.to_csv(r"02_Insider_Threat_Tracker\data\system_access_logs.csv", index=False)
+logs_df.to_csv(data_dir / 'system_access_logs.csv', index=False)
 print(f"Done! Created HR Roster and {len(logs_df)} access logs.")
