@@ -31,8 +31,8 @@ for i in range(1, NUM_CUSTOMERS + 1):
     # Determine if this user will be a "Loyal" user or a "Churner"
     behavior_type = random.choices(["Loyal", "Churner", "Occasional"], weights=[40, 30, 30])[0]
     
-    # Assign a random onboarding date in the first half of the year
-    onboard_date = START_DATE + timedelta(days=random.randint(0, 180))
+    # Assign a random onboarding date
+    onboard_date = START_DATE + timedelta(days=random.randint(0, 365))
     
     customers.append({
         "account_id": f"ACCT-{str(i).zfill(4)}",

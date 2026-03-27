@@ -1,301 +1,301 @@
 account_id,city,acquisition_channel,onboarding_date
-ACCT-0001,Penang,In-Store Promo,2025-06-15
-ACCT-0002,Shah Alam,In-Store Promo,2025-02-20
-ACCT-0003,Penang,In-Store Promo,2025-04-20
-ACCT-0004,Petaling Jaya,Referral,2025-05-16
-ACCT-0005,Johor Bahru,Referral,2025-06-11
-ACCT-0006,Penang,Referral,2025-03-25
-ACCT-0007,Kuala Lumpur,Referral,2025-06-18
-ACCT-0008,Penang,In-Store Promo,2025-04-25
-ACCT-0009,Puchong,Organic Search,2025-01-12
-ACCT-0010,Kuala Lumpur,Referral,2025-03-08
-ACCT-0011,Kuala Lumpur,Social Media Ad,2025-02-21
-ACCT-0012,Shah Alam,Referral,2025-02-26
-ACCT-0013,Petaling Jaya,Social Media Ad,2025-03-02
-ACCT-0014,Petaling Jaya,In-Store Promo,2025-03-16
-ACCT-0015,Petaling Jaya,Organic Search,2025-03-04
-ACCT-0016,Penang,Social Media Ad,2025-04-09
-ACCT-0017,Puchong,Social Media Ad,2025-02-10
-ACCT-0018,Puchong,Social Media Ad,2025-01-29
-ACCT-0019,Johor Bahru,In-Store Promo,2025-06-20
-ACCT-0020,Kuala Lumpur,Social Media Ad,2025-03-23
-ACCT-0021,Petaling Jaya,In-Store Promo,2025-02-13
-ACCT-0022,Shah Alam,Referral,2025-03-19
-ACCT-0023,Johor Bahru,In-Store Promo,2025-06-20
-ACCT-0024,Kuala Lumpur,Referral,2025-01-14
-ACCT-0025,Penang,In-Store Promo,2025-06-16
-ACCT-0026,Kuala Lumpur,In-Store Promo,2025-02-04
-ACCT-0027,Puchong,Organic Search,2025-05-25
-ACCT-0028,Kuala Lumpur,In-Store Promo,2025-06-16
-ACCT-0029,Puchong,Organic Search,2025-04-04
-ACCT-0030,Kuala Lumpur,Social Media Ad,2025-04-30
-ACCT-0031,Puchong,Referral,2025-05-08
-ACCT-0032,Johor Bahru,Referral,2025-05-01
-ACCT-0033,Penang,Referral,2025-04-27
-ACCT-0034,Kuala Lumpur,Organic Search,2025-02-23
-ACCT-0035,Shah Alam,Social Media Ad,2025-01-16
-ACCT-0036,Johor Bahru,In-Store Promo,2025-06-27
-ACCT-0037,Johor Bahru,In-Store Promo,2025-04-11
-ACCT-0038,Puchong,Referral,2025-03-21
-ACCT-0039,Johor Bahru,In-Store Promo,2025-06-04
-ACCT-0040,Johor Bahru,Organic Search,2025-05-18
-ACCT-0041,Shah Alam,Social Media Ad,2025-03-04
-ACCT-0042,Kuala Lumpur,Social Media Ad,2025-05-21
-ACCT-0043,Johor Bahru,In-Store Promo,2025-04-05
-ACCT-0044,Kuala Lumpur,Referral,2025-02-08
-ACCT-0045,Petaling Jaya,Referral,2025-03-29
-ACCT-0046,Puchong,Referral,2025-05-29
-ACCT-0047,Shah Alam,Social Media Ad,2025-04-06
-ACCT-0048,Puchong,Social Media Ad,2025-02-19
-ACCT-0049,Kuala Lumpur,Organic Search,2025-04-24
-ACCT-0050,Petaling Jaya,Referral,2025-03-15
-ACCT-0051,Shah Alam,In-Store Promo,2025-02-06
-ACCT-0052,Petaling Jaya,In-Store Promo,2025-01-10
-ACCT-0053,Kuala Lumpur,In-Store Promo,2025-05-30
-ACCT-0054,Penang,Social Media Ad,2025-05-27
-ACCT-0055,Petaling Jaya,Social Media Ad,2025-02-02
-ACCT-0056,Puchong,Referral,2025-03-25
-ACCT-0057,Shah Alam,Referral,2025-06-21
-ACCT-0058,Petaling Jaya,In-Store Promo,2025-06-30
-ACCT-0059,Petaling Jaya,Referral,2025-03-02
-ACCT-0060,Johor Bahru,In-Store Promo,2025-06-10
-ACCT-0061,Johor Bahru,Organic Search,2025-02-22
-ACCT-0062,Kuala Lumpur,Referral,2025-02-25
-ACCT-0063,Petaling Jaya,Social Media Ad,2025-02-21
-ACCT-0064,Johor Bahru,In-Store Promo,2025-04-25
-ACCT-0065,Johor Bahru,Social Media Ad,2025-04-08
-ACCT-0066,Kuala Lumpur,Organic Search,2025-02-19
-ACCT-0067,Puchong,Referral,2025-06-30
-ACCT-0068,Penang,Social Media Ad,2025-03-05
-ACCT-0069,Kuala Lumpur,Organic Search,2025-01-02
-ACCT-0070,Shah Alam,Social Media Ad,2025-01-14
-ACCT-0071,Petaling Jaya,Referral,2025-05-13
-ACCT-0072,Shah Alam,Social Media Ad,2025-01-06
-ACCT-0073,Kuala Lumpur,Referral,2025-03-02
-ACCT-0074,Johor Bahru,Referral,2025-04-22
-ACCT-0075,Puchong,Social Media Ad,2025-02-09
-ACCT-0076,Penang,Organic Search,2025-06-15
-ACCT-0077,Kuala Lumpur,Referral,2025-01-04
-ACCT-0078,Penang,In-Store Promo,2025-03-02
-ACCT-0079,Petaling Jaya,Social Media Ad,2025-06-08
-ACCT-0080,Petaling Jaya,Referral,2025-05-05
-ACCT-0081,Johor Bahru,Referral,2025-04-04
-ACCT-0082,Penang,Organic Search,2025-01-16
-ACCT-0083,Johor Bahru,In-Store Promo,2025-06-01
-ACCT-0084,Puchong,Referral,2025-05-02
-ACCT-0085,Penang,Social Media Ad,2025-02-02
-ACCT-0086,Kuala Lumpur,Organic Search,2025-03-31
-ACCT-0087,Kuala Lumpur,Social Media Ad,2025-06-20
-ACCT-0088,Johor Bahru,Organic Search,2025-03-01
-ACCT-0089,Johor Bahru,Organic Search,2025-04-01
-ACCT-0090,Johor Bahru,Social Media Ad,2025-01-19
-ACCT-0091,Penang,Referral,2025-03-16
-ACCT-0092,Penang,Social Media Ad,2025-01-17
-ACCT-0093,Penang,Referral,2025-05-23
-ACCT-0094,Johor Bahru,Referral,2025-01-21
-ACCT-0095,Penang,Referral,2025-03-27
-ACCT-0096,Johor Bahru,Referral,2025-04-11
-ACCT-0097,Petaling Jaya,Referral,2025-04-01
-ACCT-0098,Puchong,Social Media Ad,2025-01-07
-ACCT-0099,Johor Bahru,Social Media Ad,2025-02-22
-ACCT-0100,Johor Bahru,In-Store Promo,2025-06-01
-ACCT-0101,Shah Alam,Referral,2025-03-09
-ACCT-0102,Penang,In-Store Promo,2025-01-24
-ACCT-0103,Penang,Social Media Ad,2025-01-10
-ACCT-0104,Kuala Lumpur,Social Media Ad,2025-06-21
-ACCT-0105,Kuala Lumpur,In-Store Promo,2025-01-08
-ACCT-0106,Penang,Social Media Ad,2025-03-21
-ACCT-0107,Penang,Organic Search,2025-05-01
-ACCT-0108,Penang,Organic Search,2025-01-14
-ACCT-0109,Puchong,Social Media Ad,2025-03-11
-ACCT-0110,Petaling Jaya,Social Media Ad,2025-04-09
-ACCT-0111,Shah Alam,In-Store Promo,2025-02-15
-ACCT-0112,Shah Alam,Referral,2025-03-29
-ACCT-0113,Kuala Lumpur,Organic Search,2025-05-30
-ACCT-0114,Puchong,Organic Search,2025-05-05
-ACCT-0115,Puchong,Social Media Ad,2025-06-15
-ACCT-0116,Shah Alam,Referral,2025-05-26
-ACCT-0117,Kuala Lumpur,Referral,2025-04-14
-ACCT-0118,Puchong,Referral,2025-03-19
-ACCT-0119,Penang,In-Store Promo,2025-05-28
-ACCT-0120,Johor Bahru,In-Store Promo,2025-02-04
-ACCT-0121,Shah Alam,Organic Search,2025-02-25
-ACCT-0122,Shah Alam,In-Store Promo,2025-05-02
-ACCT-0123,Johor Bahru,In-Store Promo,2025-05-12
-ACCT-0124,Kuala Lumpur,In-Store Promo,2025-03-18
-ACCT-0125,Kuala Lumpur,Organic Search,2025-06-27
-ACCT-0126,Shah Alam,In-Store Promo,2025-05-19
-ACCT-0127,Kuala Lumpur,In-Store Promo,2025-02-10
-ACCT-0128,Penang,Referral,2025-05-27
-ACCT-0129,Kuala Lumpur,In-Store Promo,2025-06-29
-ACCT-0130,Kuala Lumpur,Referral,2025-04-17
-ACCT-0131,Johor Bahru,Social Media Ad,2025-03-18
-ACCT-0132,Petaling Jaya,Referral,2025-02-27
-ACCT-0133,Petaling Jaya,Referral,2025-02-22
-ACCT-0134,Puchong,Organic Search,2025-04-18
-ACCT-0135,Johor Bahru,In-Store Promo,2025-02-10
-ACCT-0136,Petaling Jaya,Referral,2025-04-15
-ACCT-0137,Kuala Lumpur,Social Media Ad,2025-01-25
-ACCT-0138,Petaling Jaya,Referral,2025-03-27
-ACCT-0139,Puchong,Social Media Ad,2025-02-22
-ACCT-0140,Johor Bahru,Social Media Ad,2025-02-27
-ACCT-0141,Petaling Jaya,Referral,2025-01-10
-ACCT-0142,Johor Bahru,In-Store Promo,2025-02-19
-ACCT-0143,Kuala Lumpur,In-Store Promo,2025-04-15
-ACCT-0144,Kuala Lumpur,Organic Search,2025-05-22
-ACCT-0145,Petaling Jaya,Referral,2025-05-19
-ACCT-0146,Petaling Jaya,Organic Search,2025-03-11
-ACCT-0147,Johor Bahru,Social Media Ad,2025-03-19
-ACCT-0148,Penang,Social Media Ad,2025-02-25
-ACCT-0149,Shah Alam,Organic Search,2025-05-12
-ACCT-0150,Shah Alam,Organic Search,2025-01-20
-ACCT-0151,Penang,Social Media Ad,2025-06-01
-ACCT-0152,Petaling Jaya,Referral,2025-06-30
-ACCT-0153,Shah Alam,Organic Search,2025-01-20
-ACCT-0154,Shah Alam,Referral,2025-02-28
-ACCT-0155,Johor Bahru,In-Store Promo,2025-02-18
-ACCT-0156,Kuala Lumpur,Social Media Ad,2025-02-17
-ACCT-0157,Penang,Referral,2025-02-19
-ACCT-0158,Shah Alam,Organic Search,2025-01-31
-ACCT-0159,Johor Bahru,Organic Search,2025-04-05
-ACCT-0160,Penang,Referral,2025-04-08
-ACCT-0161,Johor Bahru,Social Media Ad,2025-05-04
-ACCT-0162,Petaling Jaya,Social Media Ad,2025-05-08
-ACCT-0163,Kuala Lumpur,Social Media Ad,2025-02-04
-ACCT-0164,Shah Alam,Organic Search,2025-04-19
-ACCT-0165,Kuala Lumpur,In-Store Promo,2025-06-04
-ACCT-0166,Shah Alam,Organic Search,2025-05-02
-ACCT-0167,Shah Alam,Organic Search,2025-03-04
-ACCT-0168,Penang,Social Media Ad,2025-01-26
-ACCT-0169,Penang,Social Media Ad,2025-05-02
-ACCT-0170,Penang,In-Store Promo,2025-03-07
-ACCT-0171,Johor Bahru,In-Store Promo,2025-04-21
-ACCT-0172,Penang,In-Store Promo,2025-03-30
-ACCT-0173,Puchong,Social Media Ad,2025-06-07
-ACCT-0174,Puchong,Social Media Ad,2025-03-25
-ACCT-0175,Petaling Jaya,Referral,2025-03-29
-ACCT-0176,Johor Bahru,Social Media Ad,2025-05-26
-ACCT-0177,Kuala Lumpur,Social Media Ad,2025-03-13
-ACCT-0178,Shah Alam,Social Media Ad,2025-06-02
-ACCT-0179,Kuala Lumpur,Organic Search,2025-01-13
-ACCT-0180,Johor Bahru,Referral,2025-06-10
-ACCT-0181,Kuala Lumpur,In-Store Promo,2025-03-15
-ACCT-0182,Johor Bahru,Organic Search,2025-04-24
-ACCT-0183,Shah Alam,Social Media Ad,2025-03-13
-ACCT-0184,Petaling Jaya,Organic Search,2025-04-01
-ACCT-0185,Penang,Referral,2025-02-15
-ACCT-0186,Shah Alam,Social Media Ad,2025-02-04
-ACCT-0187,Shah Alam,Organic Search,2025-02-20
-ACCT-0188,Penang,In-Store Promo,2025-05-25
-ACCT-0189,Shah Alam,Social Media Ad,2025-04-14
-ACCT-0190,Petaling Jaya,Social Media Ad,2025-05-26
-ACCT-0191,Shah Alam,Organic Search,2025-03-25
-ACCT-0192,Puchong,Referral,2025-03-19
-ACCT-0193,Penang,Organic Search,2025-03-19
-ACCT-0194,Penang,In-Store Promo,2025-06-22
-ACCT-0195,Johor Bahru,Referral,2025-03-02
-ACCT-0196,Penang,Social Media Ad,2025-02-09
-ACCT-0197,Penang,Social Media Ad,2025-05-13
-ACCT-0198,Kuala Lumpur,Organic Search,2025-02-04
-ACCT-0199,Petaling Jaya,In-Store Promo,2025-04-17
-ACCT-0200,Johor Bahru,Referral,2025-05-27
-ACCT-0201,Johor Bahru,Social Media Ad,2025-01-23
-ACCT-0202,Puchong,Social Media Ad,2025-04-20
-ACCT-0203,Puchong,Referral,2025-04-29
-ACCT-0204,Kuala Lumpur,Social Media Ad,2025-04-02
-ACCT-0205,Petaling Jaya,In-Store Promo,2025-02-04
-ACCT-0206,Johor Bahru,Referral,2025-05-22
-ACCT-0207,Shah Alam,Social Media Ad,2025-05-16
-ACCT-0208,Penang,Organic Search,2025-03-09
-ACCT-0209,Kuala Lumpur,Social Media Ad,2025-06-24
-ACCT-0210,Penang,Organic Search,2025-04-22
-ACCT-0211,Puchong,In-Store Promo,2025-05-17
-ACCT-0212,Puchong,Social Media Ad,2025-05-30
-ACCT-0213,Puchong,Social Media Ad,2025-01-03
-ACCT-0214,Johor Bahru,Organic Search,2025-04-05
-ACCT-0215,Shah Alam,Social Media Ad,2025-04-15
-ACCT-0216,Puchong,Referral,2025-03-13
-ACCT-0217,Puchong,In-Store Promo,2025-03-08
-ACCT-0218,Shah Alam,In-Store Promo,2025-06-30
-ACCT-0219,Puchong,Organic Search,2025-05-06
-ACCT-0220,Puchong,In-Store Promo,2025-02-15
-ACCT-0221,Petaling Jaya,Social Media Ad,2025-04-18
-ACCT-0222,Puchong,Referral,2025-06-28
-ACCT-0223,Kuala Lumpur,Organic Search,2025-01-27
-ACCT-0224,Penang,Organic Search,2025-03-03
-ACCT-0225,Penang,Social Media Ad,2025-02-11
-ACCT-0226,Puchong,In-Store Promo,2025-02-23
-ACCT-0227,Penang,Social Media Ad,2025-06-07
-ACCT-0228,Puchong,In-Store Promo,2025-03-31
-ACCT-0229,Kuala Lumpur,Social Media Ad,2025-06-20
-ACCT-0230,Penang,Social Media Ad,2025-02-15
-ACCT-0231,Penang,Organic Search,2025-03-12
-ACCT-0232,Kuala Lumpur,Referral,2025-06-18
-ACCT-0233,Penang,Social Media Ad,2025-06-08
-ACCT-0234,Johor Bahru,Social Media Ad,2025-03-18
-ACCT-0235,Johor Bahru,Social Media Ad,2025-02-05
-ACCT-0236,Johor Bahru,Referral,2025-02-10
-ACCT-0237,Kuala Lumpur,Social Media Ad,2025-02-26
-ACCT-0238,Puchong,Social Media Ad,2025-03-23
-ACCT-0239,Petaling Jaya,Organic Search,2025-06-13
-ACCT-0240,Petaling Jaya,Social Media Ad,2025-03-19
-ACCT-0241,Johor Bahru,In-Store Promo,2025-05-12
-ACCT-0242,Kuala Lumpur,Social Media Ad,2025-06-11
-ACCT-0243,Kuala Lumpur,In-Store Promo,2025-06-07
-ACCT-0244,Shah Alam,In-Store Promo,2025-01-22
-ACCT-0245,Kuala Lumpur,Social Media Ad,2025-06-02
-ACCT-0246,Puchong,Social Media Ad,2025-04-17
-ACCT-0247,Penang,Organic Search,2025-01-04
-ACCT-0248,Puchong,In-Store Promo,2025-02-16
-ACCT-0249,Penang,Organic Search,2025-01-14
-ACCT-0250,Johor Bahru,Organic Search,2025-06-10
-ACCT-0251,Johor Bahru,Referral,2025-04-02
-ACCT-0252,Puchong,Organic Search,2025-06-05
-ACCT-0253,Penang,In-Store Promo,2025-04-12
-ACCT-0254,Kuala Lumpur,In-Store Promo,2025-04-01
-ACCT-0255,Petaling Jaya,Social Media Ad,2025-01-28
-ACCT-0256,Puchong,Referral,2025-04-10
-ACCT-0257,Petaling Jaya,In-Store Promo,2025-03-16
-ACCT-0258,Johor Bahru,Social Media Ad,2025-03-21
-ACCT-0259,Puchong,Organic Search,2025-03-11
-ACCT-0260,Kuala Lumpur,In-Store Promo,2025-01-15
-ACCT-0261,Puchong,Organic Search,2025-01-16
-ACCT-0262,Petaling Jaya,Organic Search,2025-04-22
-ACCT-0263,Kuala Lumpur,In-Store Promo,2025-01-09
-ACCT-0264,Johor Bahru,Referral,2025-04-21
-ACCT-0265,Kuala Lumpur,Organic Search,2025-03-10
-ACCT-0266,Shah Alam,Organic Search,2025-05-19
-ACCT-0267,Puchong,Referral,2025-05-12
-ACCT-0268,Kuala Lumpur,In-Store Promo,2025-06-12
-ACCT-0269,Johor Bahru,Organic Search,2025-06-17
-ACCT-0270,Petaling Jaya,Organic Search,2025-04-11
-ACCT-0271,Petaling Jaya,Organic Search,2025-04-03
-ACCT-0272,Puchong,Social Media Ad,2025-06-26
-ACCT-0273,Penang,In-Store Promo,2025-01-03
-ACCT-0274,Kuala Lumpur,Organic Search,2025-05-16
-ACCT-0275,Puchong,Referral,2025-01-20
-ACCT-0276,Penang,Organic Search,2025-01-21
-ACCT-0277,Petaling Jaya,In-Store Promo,2025-02-17
-ACCT-0278,Shah Alam,In-Store Promo,2025-01-18
-ACCT-0279,Johor Bahru,In-Store Promo,2025-05-05
-ACCT-0280,Johor Bahru,Organic Search,2025-04-16
-ACCT-0281,Penang,Organic Search,2025-01-09
-ACCT-0282,Puchong,Social Media Ad,2025-02-26
-ACCT-0283,Johor Bahru,Referral,2025-01-07
-ACCT-0284,Kuala Lumpur,Social Media Ad,2025-06-03
-ACCT-0285,Petaling Jaya,Organic Search,2025-03-26
-ACCT-0286,Petaling Jaya,In-Store Promo,2025-03-10
-ACCT-0287,Johor Bahru,In-Store Promo,2025-04-24
-ACCT-0288,Johor Bahru,Organic Search,2025-05-20
-ACCT-0289,Petaling Jaya,Referral,2025-05-11
-ACCT-0290,Shah Alam,Organic Search,2025-03-08
-ACCT-0291,Petaling Jaya,Organic Search,2025-04-27
-ACCT-0292,Petaling Jaya,Organic Search,2025-04-28
-ACCT-0293,Shah Alam,In-Store Promo,2025-05-05
-ACCT-0294,Kuala Lumpur,Social Media Ad,2025-06-05
-ACCT-0295,Kuala Lumpur,Social Media Ad,2025-06-27
-ACCT-0296,Shah Alam,Referral,2025-02-03
-ACCT-0297,Johor Bahru,In-Store Promo,2025-01-01
-ACCT-0298,Penang,Referral,2025-03-22
-ACCT-0299,Puchong,In-Store Promo,2025-06-12
-ACCT-0300,Penang,In-Store Promo,2025-05-09
+ACCT-0001,Penang,In-Store Promo,2025-11-27
+ACCT-0002,Shah Alam,In-Store Promo,2025-04-11
+ACCT-0003,Penang,In-Store Promo,2025-08-08
+ACCT-0004,Petaling Jaya,Referral,2025-09-28
+ACCT-0005,Johor Bahru,Referral,2025-11-19
+ACCT-0006,Penang,Referral,2025-06-17
+ACCT-0007,Kuala Lumpur,Referral,2025-12-03
+ACCT-0008,Penang,In-Store Promo,2025-08-17
+ACCT-0009,Puchong,Organic Search,2025-01-24
+ACCT-0010,Kuala Lumpur,Referral,2025-05-14
+ACCT-0011,Kuala Lumpur,Social Media Ad,2025-04-14
+ACCT-0012,Shah Alam,Referral,2025-04-23
+ACCT-0013,Petaling Jaya,Social Media Ad,2025-05-02
+ACCT-0014,Petaling Jaya,In-Store Promo,2025-05-30
+ACCT-0015,Petaling Jaya,Organic Search,2025-05-05
+ACCT-0016,Penang,Social Media Ad,2025-07-16
+ACCT-0017,Puchong,Social Media Ad,2025-03-22
+ACCT-0018,Puchong,Social Media Ad,2025-02-26
+ACCT-0019,Johor Bahru,In-Store Promo,2025-12-07
+ACCT-0020,Kuala Lumpur,Social Media Ad,2025-06-13
+ACCT-0021,Petaling Jaya,In-Store Promo,2025-03-28
+ACCT-0022,Shah Alam,Referral,2025-06-04
+ACCT-0023,Johor Bahru,In-Store Promo,2025-12-07
+ACCT-0024,Kuala Lumpur,Referral,2025-01-28
+ACCT-0025,Penang,In-Store Promo,2025-11-29
+ACCT-0026,Kuala Lumpur,In-Store Promo,2025-03-11
+ACCT-0027,Puchong,Organic Search,2025-10-17
+ACCT-0028,Kuala Lumpur,In-Store Promo,2025-11-30
+ACCT-0029,Puchong,Organic Search,2025-07-07
+ACCT-0030,Kuala Lumpur,Social Media Ad,2025-08-28
+ACCT-0031,Puchong,Referral,2025-09-13
+ACCT-0032,Johor Bahru,Referral,2025-08-30
+ACCT-0033,Penang,Referral,2025-08-21
+ACCT-0034,Kuala Lumpur,Organic Search,2025-04-17
+ACCT-0035,Shah Alam,Social Media Ad,2025-01-31
+ACCT-0036,Johor Bahru,In-Store Promo,2025-12-22
+ACCT-0037,Johor Bahru,In-Store Promo,2025-07-21
+ACCT-0038,Puchong,Referral,2025-06-09
+ACCT-0039,Johor Bahru,In-Store Promo,2025-11-05
+ACCT-0040,Johor Bahru,Organic Search,2025-10-03
+ACCT-0041,Shah Alam,Social Media Ad,2025-05-06
+ACCT-0042,Kuala Lumpur,Social Media Ad,2025-10-08
+ACCT-0043,Johor Bahru,In-Store Promo,2025-07-08
+ACCT-0044,Kuala Lumpur,Referral,2025-03-18
+ACCT-0045,Petaling Jaya,Referral,2025-06-24
+ACCT-0046,Puchong,Referral,2025-10-24
+ACCT-0047,Shah Alam,Social Media Ad,2025-07-10
+ACCT-0048,Puchong,Social Media Ad,2025-04-10
+ACCT-0049,Kuala Lumpur,Organic Search,2025-08-15
+ACCT-0050,Petaling Jaya,Referral,2025-05-28
+ACCT-0051,Shah Alam,In-Store Promo,2025-03-14
+ACCT-0052,Petaling Jaya,In-Store Promo,2025-01-20
+ACCT-0053,Kuala Lumpur,In-Store Promo,2025-10-27
+ACCT-0054,Penang,Social Media Ad,2025-10-20
+ACCT-0055,Petaling Jaya,Social Media Ad,2025-03-06
+ACCT-0056,Puchong,Referral,2025-06-16
+ACCT-0057,Shah Alam,Referral,2025-12-10
+ACCT-0058,Petaling Jaya,In-Store Promo,2025-12-27
+ACCT-0059,Petaling Jaya,Referral,2025-05-02
+ACCT-0060,Johor Bahru,In-Store Promo,2025-11-18
+ACCT-0061,Johor Bahru,Organic Search,2025-04-16
+ACCT-0062,Kuala Lumpur,Referral,2025-04-21
+ACCT-0063,Petaling Jaya,Social Media Ad,2025-04-13
+ACCT-0064,Johor Bahru,In-Store Promo,2025-08-17
+ACCT-0065,Johor Bahru,Social Media Ad,2025-07-15
+ACCT-0066,Kuala Lumpur,Organic Search,2025-04-10
+ACCT-0067,Shah Alam,Referral,2025-04-24
+ACCT-0068,Penang,Social Media Ad,2025-05-07
+ACCT-0069,Kuala Lumpur,Organic Search,2025-01-03
+ACCT-0070,Shah Alam,Social Media Ad,2025-01-27
+ACCT-0071,Petaling Jaya,Referral,2025-09-23
+ACCT-0072,Shah Alam,Social Media Ad,2025-01-12
+ACCT-0073,Kuala Lumpur,Referral,2025-05-02
+ACCT-0074,Johor Bahru,Referral,2025-08-12
+ACCT-0075,Puchong,Social Media Ad,2025-03-21
+ACCT-0076,Penang,Organic Search,2025-11-28
+ACCT-0077,Kuala Lumpur,Referral,2025-01-08
+ACCT-0078,Penang,In-Store Promo,2025-05-01
+ACCT-0079,Petaling Jaya,Social Media Ad,2025-11-14
+ACCT-0080,Petaling Jaya,Referral,2025-09-06
+ACCT-0081,Johor Bahru,Referral,2025-07-07
+ACCT-0082,Penang,Organic Search,2025-01-31
+ACCT-0083,Johor Bahru,In-Store Promo,2025-10-30
+ACCT-0084,Puchong,Referral,2025-09-01
+ACCT-0085,Penang,Social Media Ad,2025-03-07
+ACCT-0086,Kuala Lumpur,Organic Search,2025-06-29
+ACCT-0087,Kuala Lumpur,Social Media Ad,2025-12-07
+ACCT-0088,Johor Bahru,Organic Search,2025-04-29
+ACCT-0089,Johor Bahru,Organic Search,2025-06-30
+ACCT-0090,Johor Bahru,Social Media Ad,2025-02-07
+ACCT-0091,Penang,Referral,2025-05-30
+ACCT-0092,Penang,Social Media Ad,2025-02-03
+ACCT-0093,Penang,Referral,2025-10-13
+ACCT-0094,Johor Bahru,Referral,2025-02-11
+ACCT-0095,Penang,Referral,2025-06-20
+ACCT-0096,Johor Bahru,Referral,2025-07-20
+ACCT-0097,Petaling Jaya,Referral,2025-06-30
+ACCT-0098,Puchong,Social Media Ad,2025-01-13
+ACCT-0099,Johor Bahru,Social Media Ad,2025-04-16
+ACCT-0100,Johor Bahru,In-Store Promo,2025-10-31
+ACCT-0101,Shah Alam,Referral,2025-05-16
+ACCT-0102,Penang,In-Store Promo,2025-02-17
+ACCT-0103,Penang,Social Media Ad,2025-01-20
+ACCT-0104,Kuala Lumpur,Social Media Ad,2025-12-10
+ACCT-0105,Kuala Lumpur,In-Store Promo,2025-01-15
+ACCT-0106,Penang,Social Media Ad,2025-06-08
+ACCT-0107,Penang,Organic Search,2025-08-30
+ACCT-0108,Penang,Organic Search,2025-01-27
+ACCT-0109,Puchong,Social Media Ad,2025-05-19
+ACCT-0110,Petaling Jaya,Social Media Ad,2025-07-17
+ACCT-0111,Shah Alam,In-Store Promo,2025-04-02
+ACCT-0112,Shah Alam,Referral,2025-06-25
+ACCT-0113,Kuala Lumpur,Organic Search,2025-10-27
+ACCT-0114,Puchong,Organic Search,2025-09-06
+ACCT-0115,Puchong,Social Media Ad,2025-11-28
+ACCT-0116,Shah Alam,Referral,2025-10-18
+ACCT-0117,Kuala Lumpur,Referral,2025-07-27
+ACCT-0118,Puchong,Referral,2025-06-05
+ACCT-0119,Penang,In-Store Promo,2025-10-22
+ACCT-0120,Johor Bahru,In-Store Promo,2025-03-10
+ACCT-0121,Shah Alam,Organic Search,2025-04-22
+ACCT-0122,Shah Alam,In-Store Promo,2025-08-31
+ACCT-0123,Johor Bahru,In-Store Promo,2025-09-20
+ACCT-0124,Kuala Lumpur,In-Store Promo,2025-06-03
+ACCT-0125,Kuala Lumpur,Organic Search,2025-12-21
+ACCT-0126,Shah Alam,In-Store Promo,2025-10-04
+ACCT-0127,Kuala Lumpur,In-Store Promo,2025-03-22
+ACCT-0128,Penang,Referral,2025-10-20
+ACCT-0129,Kuala Lumpur,In-Store Promo,2025-12-26
+ACCT-0130,Kuala Lumpur,Referral,2025-08-01
+ACCT-0131,Johor Bahru,Social Media Ad,2025-06-03
+ACCT-0132,Petaling Jaya,Referral,2025-04-26
+ACCT-0133,Petaling Jaya,Referral,2025-04-16
+ACCT-0134,Puchong,Organic Search,2025-08-04
+ACCT-0135,Johor Bahru,In-Store Promo,2025-03-23
+ACCT-0136,Petaling Jaya,Referral,2025-07-29
+ACCT-0137,Kuala Lumpur,Social Media Ad,2025-02-19
+ACCT-0138,Petaling Jaya,Referral,2025-06-20
+ACCT-0139,Puchong,Social Media Ad,2025-04-16
+ACCT-0140,Johor Bahru,Social Media Ad,2025-04-26
+ACCT-0141,Petaling Jaya,Referral,2025-01-19
+ACCT-0142,Johor Bahru,In-Store Promo,2025-04-10
+ACCT-0143,Kuala Lumpur,In-Store Promo,2025-07-29
+ACCT-0144,Kuala Lumpur,Organic Search,2025-10-11
+ACCT-0145,Petaling Jaya,Referral,2025-10-04
+ACCT-0146,Petaling Jaya,Organic Search,2025-05-19
+ACCT-0147,Johor Bahru,Social Media Ad,2025-06-05
+ACCT-0148,Penang,Social Media Ad,2025-04-21
+ACCT-0149,Shah Alam,Organic Search,2025-09-21
+ACCT-0150,Shah Alam,Organic Search,2025-02-09
+ACCT-0151,Penang,Social Media Ad,2025-10-30
+ACCT-0152,Petaling Jaya,Referral,2025-12-27
+ACCT-0153,Shah Alam,Organic Search,2025-02-08
+ACCT-0154,Shah Alam,Referral,2025-04-27
+ACCT-0155,Johor Bahru,In-Store Promo,2025-04-07
+ACCT-0156,Kuala Lumpur,Social Media Ad,2025-04-05
+ACCT-0157,Penang,Referral,2025-04-09
+ACCT-0158,Shah Alam,Organic Search,2025-03-02
+ACCT-0159,Johor Bahru,Organic Search,2025-07-09
+ACCT-0160,Penang,Referral,2025-07-15
+ACCT-0161,Johor Bahru,Social Media Ad,2025-09-05
+ACCT-0162,Petaling Jaya,Social Media Ad,2025-09-13
+ACCT-0163,Kuala Lumpur,Social Media Ad,2025-03-11
+ACCT-0164,Shah Alam,Organic Search,2025-08-06
+ACCT-0165,Kuala Lumpur,In-Store Promo,2025-11-06
+ACCT-0166,Shah Alam,Organic Search,2025-08-31
+ACCT-0167,Shah Alam,Organic Search,2025-05-05
+ACCT-0168,Penang,Social Media Ad,2025-02-21
+ACCT-0169,Penang,Social Media Ad,2025-08-31
+ACCT-0170,Penang,In-Store Promo,2025-05-11
+ACCT-0171,Johor Bahru,In-Store Promo,2025-08-09
+ACCT-0172,Penang,In-Store Promo,2025-06-27
+ACCT-0173,Puchong,Social Media Ad,2025-11-11
+ACCT-0174,Puchong,Social Media Ad,2025-06-16
+ACCT-0175,Petaling Jaya,Referral,2025-06-25
+ACCT-0176,Johor Bahru,Social Media Ad,2025-10-19
+ACCT-0177,Kuala Lumpur,Social Media Ad,2025-05-23
+ACCT-0178,Shah Alam,Social Media Ad,2025-11-01
+ACCT-0179,Kuala Lumpur,Organic Search,2025-01-26
+ACCT-0180,Johor Bahru,Referral,2025-11-18
+ACCT-0181,Kuala Lumpur,In-Store Promo,2025-05-28
+ACCT-0182,Johor Bahru,Organic Search,2025-08-15
+ACCT-0183,Shah Alam,Social Media Ad,2025-05-23
+ACCT-0184,Petaling Jaya,Organic Search,2025-07-01
+ACCT-0185,Penang,Referral,2025-04-01
+ACCT-0186,Shah Alam,Social Media Ad,2025-03-11
+ACCT-0187,Shah Alam,Organic Search,2025-04-12
+ACCT-0188,Penang,In-Store Promo,2025-10-16
+ACCT-0189,Shah Alam,Social Media Ad,2025-07-26
+ACCT-0190,Petaling Jaya,Social Media Ad,2025-10-19
+ACCT-0191,Shah Alam,Organic Search,2025-06-16
+ACCT-0192,Puchong,Referral,2025-06-05
+ACCT-0193,Penang,Organic Search,2025-06-04
+ACCT-0194,Penang,In-Store Promo,2025-12-12
+ACCT-0195,Johor Bahru,Referral,2025-05-02
+ACCT-0196,Penang,Social Media Ad,2025-03-21
+ACCT-0197,Penang,Social Media Ad,2025-09-22
+ACCT-0198,Kuala Lumpur,Organic Search,2025-03-10
+ACCT-0199,Petaling Jaya,In-Store Promo,2025-08-01
+ACCT-0200,Johor Bahru,Referral,2025-10-20
+ACCT-0201,Johor Bahru,Social Media Ad,2025-02-15
+ACCT-0202,Puchong,Social Media Ad,2025-08-07
+ACCT-0203,Puchong,Referral,2025-08-25
+ACCT-0204,Kuala Lumpur,Social Media Ad,2025-07-02
+ACCT-0205,Petaling Jaya,In-Store Promo,2025-03-10
+ACCT-0206,Johor Bahru,Referral,2025-10-11
+ACCT-0207,Shah Alam,Social Media Ad,2025-09-29
+ACCT-0208,Penang,Organic Search,2025-05-16
+ACCT-0209,Kuala Lumpur,Social Media Ad,2025-12-15
+ACCT-0210,Penang,Organic Search,2025-08-12
+ACCT-0211,Puchong,In-Store Promo,2025-09-30
+ACCT-0212,Puchong,Social Media Ad,2025-10-26
+ACCT-0213,Puchong,Social Media Ad,2025-01-06
+ACCT-0214,Johor Bahru,Organic Search,2025-07-09
+ACCT-0215,Shah Alam,Social Media Ad,2025-07-29
+ACCT-0216,Puchong,Referral,2025-05-23
+ACCT-0217,Puchong,In-Store Promo,2025-05-14
+ACCT-0218,Shah Alam,In-Store Promo,2025-12-27
+ACCT-0219,Puchong,Organic Search,2025-09-08
+ACCT-0220,Puchong,In-Store Promo,2025-04-01
+ACCT-0221,Petaling Jaya,Social Media Ad,2025-08-03
+ACCT-0222,Puchong,Referral,2025-12-23
+ACCT-0223,Kuala Lumpur,Organic Search,2025-02-23
+ACCT-0224,Penang,Organic Search,2025-05-04
+ACCT-0225,Penang,Social Media Ad,2025-03-24
+ACCT-0226,Puchong,In-Store Promo,2025-04-18
+ACCT-0227,Penang,Social Media Ad,2025-11-11
+ACCT-0228,Puchong,In-Store Promo,2025-06-29
+ACCT-0229,Kuala Lumpur,Social Media Ad,2025-12-07
+ACCT-0230,Penang,Social Media Ad,2025-04-01
+ACCT-0231,Penang,Organic Search,2025-05-21
+ACCT-0232,Kuala Lumpur,Referral,2025-12-03
+ACCT-0233,Penang,Social Media Ad,2025-11-13
+ACCT-0234,Johor Bahru,Social Media Ad,2025-06-03
+ACCT-0235,Johor Bahru,Social Media Ad,2025-03-13
+ACCT-0236,Johor Bahru,Referral,2025-03-23
+ACCT-0237,Kuala Lumpur,Social Media Ad,2025-04-24
+ACCT-0238,Puchong,Social Media Ad,2025-06-13
+ACCT-0239,Petaling Jaya,Organic Search,2025-11-24
+ACCT-0240,Petaling Jaya,Social Media Ad,2025-06-04
+ACCT-0241,Johor Bahru,In-Store Promo,2025-09-21
+ACCT-0242,Kuala Lumpur,Social Media Ad,2025-11-20
+ACCT-0243,Kuala Lumpur,In-Store Promo,2025-11-11
+ACCT-0244,Shah Alam,In-Store Promo,2025-02-12
+ACCT-0245,Kuala Lumpur,Social Media Ad,2025-11-01
+ACCT-0246,Puchong,Social Media Ad,2025-08-02
+ACCT-0247,Penang,Organic Search,2025-01-07
+ACCT-0248,Puchong,In-Store Promo,2025-04-03
+ACCT-0249,Penang,Organic Search,2025-01-28
+ACCT-0250,Johor Bahru,Organic Search,2025-11-18
+ACCT-0251,Johor Bahru,Referral,2025-07-02
+ACCT-0252,Puchong,Organic Search,2025-11-08
+ACCT-0253,Penang,In-Store Promo,2025-07-23
+ACCT-0254,Kuala Lumpur,In-Store Promo,2025-06-30
+ACCT-0255,Petaling Jaya,Social Media Ad,2025-02-24
+ACCT-0256,Puchong,Referral,2025-07-18
+ACCT-0257,Petaling Jaya,In-Store Promo,2025-05-29
+ACCT-0258,Johor Bahru,Social Media Ad,2025-06-08
+ACCT-0259,Puchong,Organic Search,2025-05-20
+ACCT-0260,Kuala Lumpur,In-Store Promo,2025-01-29
+ACCT-0261,Puchong,Organic Search,2025-02-01
+ACCT-0262,Petaling Jaya,Organic Search,2025-08-12
+ACCT-0263,Kuala Lumpur,In-Store Promo,2025-01-18
+ACCT-0264,Johor Bahru,Referral,2025-08-10
+ACCT-0265,Kuala Lumpur,Organic Search,2025-05-17
+ACCT-0266,Shah Alam,Organic Search,2025-10-04
+ACCT-0267,Puchong,Referral,2025-09-20
+ACCT-0268,Kuala Lumpur,In-Store Promo,2025-11-22
+ACCT-0269,Johor Bahru,Organic Search,2025-12-01
+ACCT-0270,Petaling Jaya,Organic Search,2025-07-20
+ACCT-0271,Petaling Jaya,Organic Search,2025-07-04
+ACCT-0272,Puchong,Social Media Ad,2025-12-20
+ACCT-0273,Penang,In-Store Promo,2025-01-05
+ACCT-0274,Kuala Lumpur,Organic Search,2025-09-28
+ACCT-0275,Puchong,Referral,2025-02-08
+ACCT-0276,Penang,Organic Search,2025-02-10
+ACCT-0277,Petaling Jaya,In-Store Promo,2025-04-05
+ACCT-0278,Shah Alam,In-Store Promo,2025-02-05
+ACCT-0279,Johor Bahru,In-Store Promo,2025-09-06
+ACCT-0280,Johor Bahru,Organic Search,2025-07-30
+ACCT-0281,Penang,Organic Search,2025-01-17
+ACCT-0282,Puchong,Social Media Ad,2025-04-23
+ACCT-0283,Johor Bahru,Referral,2025-01-14
+ACCT-0284,Kuala Lumpur,Social Media Ad,2025-11-03
+ACCT-0285,Petaling Jaya,Organic Search,2025-06-19
+ACCT-0286,Petaling Jaya,In-Store Promo,2025-05-18
+ACCT-0287,Johor Bahru,In-Store Promo,2025-08-16
+ACCT-0288,Johor Bahru,Organic Search,2025-10-07
+ACCT-0289,Petaling Jaya,Referral,2025-09-18
+ACCT-0290,Shah Alam,Organic Search,2025-05-13
+ACCT-0291,Petaling Jaya,Organic Search,2025-08-22
+ACCT-0292,Petaling Jaya,Organic Search,2025-08-23
+ACCT-0293,Shah Alam,In-Store Promo,2025-09-07
+ACCT-0294,Kuala Lumpur,Social Media Ad,2025-11-08
+ACCT-0295,Kuala Lumpur,Social Media Ad,2025-12-21
+ACCT-0296,Shah Alam,Referral,2025-03-09
+ACCT-0297,Johor Bahru,In-Store Promo,2025-01-02
+ACCT-0298,Penang,Referral,2025-06-11
+ACCT-0299,Puchong,In-Store Promo,2025-11-22
+ACCT-0300,Penang,In-Store Promo,2025-09-14
